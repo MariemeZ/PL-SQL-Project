@@ -1,0 +1,26 @@
+#bouton{	  
+	  font-size:1em;
+	  
+	  color:LightCoral;
+	  border:2px solid #73e693;
+	  background-color:#73e693;
+	  
+	
+ }
+#bouton:hover{
+	
+	background-color:white;
+		 
+}
+#sec1{
+	margin-left:350px;
+}
+#res1{
+	margin-left:200px;
+}
+#res2{
+	margin-left:191px;
+}
+#res3{
+	margin-left:191px;
+}
